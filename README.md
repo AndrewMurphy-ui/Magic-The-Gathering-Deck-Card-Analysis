@@ -13,7 +13,6 @@ MTGProject is a data analysis project focused on analyzing and visualizing Magic
 - **Programming Language**: Python
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
-- **Database**: SQLite or ArangoDB (if applicable)
 - **APIs**: MTGGoldfish API (for card data retrieval)
 
 ## Installation
@@ -59,5 +58,4 @@ This project is licensed under the MIT License.
 For any questions or suggestions, feel free to reach out via GitHub or email.
 
 ---
-Let me know if you want to add more details like specific database queries, ETL pipeline steps, or planned features!
-
+Let me know if you want to add more details like specific ETL pipeline steps o
