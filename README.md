@@ -1,5 +1,9 @@
 # MTGProject
 
+![Image](https://github.com/user-attachments/assets/5b60a5c4-ca78-4d17-b0e7-a58f623964dc)
+
+![Image](https://github.com/user-attachments/assets/b6f48f59-80dd-41d9-aee4-403a35dcaab3)
+
 ## Overview
 MTGProject is a data analysis project focused on analyzing and visualizing Magic: The Gathering (MTG) card data. The project leverages ETL pipelines, statistical analysis, and visualization techniques to gain insights into MTG card attributes, rarity distributions, and game mechanics.
 
