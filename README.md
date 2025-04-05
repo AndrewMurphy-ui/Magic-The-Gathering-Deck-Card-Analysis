@@ -1,6 +1,7 @@
 # MTGProject
 
-![image](https://github.com/user-attachments/assets/86fc8104-5fdc-48e6-b6af-9ada99d7f33c)
+![image](https://github.com/user-attachments/assets/2af0ca96-3c21-4cb5-a355-1adb0b74795e)
+
 
 
 ## Overview
