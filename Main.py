@@ -2,7 +2,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import seaborn as sns
 
-# Load the data
+#import the actual origional data
 df = pd.read_excel(r"C:\Users\User\PycharmProjects\DeckCardProject\new_file.xlsx")
 
 # Data inspection and cleaning
